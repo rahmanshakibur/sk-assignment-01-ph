@@ -56,7 +56,7 @@ header {
   background-image: url('../Assets/Hero-bg.png');
   background-repeat: no-repeat;
   background-position: center;
-  /* max-width: 1440px; */ width: 100%;
+   width: 100%;
   background-size: cover;
   height: 698px;
   margin: 0 auto;
